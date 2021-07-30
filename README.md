@@ -14,4 +14,4 @@ A custom function will check if the plate is personalised. This information is s
 At this stage there is no need for a backend.
 
 
-
+Components: https://react.semantic-ui.com/
